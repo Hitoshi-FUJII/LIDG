@@ -13,12 +13,12 @@ Version 0.0 (2019 June 13)
     - Descriptor generation by basic operations
 
 ## Required Packages
-python >= 3.7 (for ordered dictionary)
-matplotlib
-numpy
-pandas
-scipy
-scikt-learn(sklearn)
+- python >= 3.7 (for ordered dictionary)
+- matplotlib
+- numpy
+- pandas
+- scipy
+- scikt-learn (only for ElasticNet calculation)
 
 ## Documentation
 in preparation
