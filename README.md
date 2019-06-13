@@ -1,10 +1,10 @@
 # LIDG
 Linearly independent descriptor generation for sparse and interpretable modeling
 
-# Latest version
+## Latest version
 Version 0.0 (2019 June 13)
 
-# Changes
+## Changes
 * version 0.0
     - Symmetrization of descriptors
     - Detection and removal of near multicollinearlities 
@@ -12,7 +12,7 @@ Version 0.0 (2019 June 13)
     - Descriptor generation by direct product 
     - Descriptor generation by basic operations
 
-# Required Packages
+## Required Packages
 python >= 3.7 (for ordered dictionary)
 matplotlib
 numpy
@@ -20,16 +20,16 @@ pandas
 scipy
 scikt-learn(sklearn)
 
-# Documentation
+## Documentation
 in preparation
 
-# Tutorial
+## Tutorial
 In preparation
 
-# Reference
+## Reference
 in preparation
 
-# License
+## License
 LIDG is distributed under the MIT License.
 Copyright (c) 2019 LIDG Development Team
 
