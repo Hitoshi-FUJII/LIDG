@@ -20,16 +20,9 @@ Version 0.0 (2019 June 13)
 - scipy
 - scikt-learn (only for ElasticNet calculation)
 
-## Documentation
+## Manual
 see LIDG_manual.pdf
-
-## Tutorial
-In preparation
-
-## Reference
-in preparation
 
 ## License
 LIDG is distributed under the MIT License.
 Copyright (c) 2019 LIDG Development Team
-
