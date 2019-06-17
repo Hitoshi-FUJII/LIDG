@@ -21,7 +21,7 @@ Version 0.0 (2019 June 13)
 - scikt-learn (only for ElasticNet calculation)
 
 ## Documentation
-in preparation
+see LIDG_manual.pdf
 
 ## Tutorial
 In preparation
