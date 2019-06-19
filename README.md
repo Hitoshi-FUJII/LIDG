@@ -1,5 +1,5 @@
 # LIDG
-Linearly independent descriptor generation for sparse and interpretable modeling
+Linearly independent descriptor generation (LIDG) program package for sparse and interpretable modeling
 
 ## Latest version
 Version 0.0 (2019 June 13)
