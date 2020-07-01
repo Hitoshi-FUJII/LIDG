@@ -1,10 +1,17 @@
 # LIDG
 Linearly independent descriptor generation (LIDG) program package for sparse and interpretable modeling
+Note:
+LIDG method is similar in name to Ridge regression, sure independent screening (SIS), and independent component analysis (ICA), but these are completely different methods.
 
 ## Latest version
+Version 0.1 (2020 July  1)
 Version 0.0 (2019 June 13)
 
 ## Changes
+* version 0.1
+    - Speedup and memory saving about Q2 (LOOCV) calclulation.
+    - Added an exhaustive search method for model selection.
+
 * version 0.0
     - Symmetrization of descriptors
     - Detection and removal of near multicollinearlities 
