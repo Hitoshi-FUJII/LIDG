@@ -2,14 +2,19 @@
 Linearly independent descriptor generation (LIDG) program package for sparse and interpretable modeling
 
 Note:
-LIDG method is similar in name to Ridge regression, sure independent screening (SIS), and independent component analysis (ICA), but these are completely different methods.
+"LIDG" method is similar in name to "Ridge" regression, sure independent screening (SIS), and independent component analysis (ICA), but these are completely different methods.
 
 ## Latest version
-Version 0.1 (2020 July  1)
+Version 0.2 (2020 Nov 10)
+
+Version 0.1 (2020 July 1)
 
 Version 0.0 (2019 June 13)
 
 ## Changes
+* version 0.2
+    - Added a genetic algorithm code for tough model selections.
+    
 * version 0.1
     - Speedup and memory saving about Q2 (LOOCV) calclulation.
     - Added an exhaustive search method for model selection.
@@ -26,7 +31,7 @@ Version 0.0 (2019 June 13)
 - matplotlib
 - numpy
 - pandas
-- scipy
+- scipy (only for p-value calculation of t-test)
 - scikt-learn (only for ElasticNet calculation)
 
 ## Manual
