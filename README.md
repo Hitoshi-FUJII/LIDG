@@ -5,6 +5,8 @@ Note:
 "LIDG" method is similar in name to "Ridge" regression, sure independent screening (SIS), and independent component analysis (ICA), but these are completely different methods.
 
 ## Latest version
+Version 0.3 (2022 Jan 12)
+
 Version 0.2 (2020 Nov 10)
 
 Version 0.1 (2020 July 1)
@@ -12,6 +14,12 @@ Version 0.1 (2020 July 1)
 Version 0.0 (2019 June 13)
 
 ## Changes
+* version 0.3
+    - Display digits control
+    - CSV file reading (added "sep" option in .read() method). 
+    - Bug fix (outlier detection program in projection.py).
+    
+
 * version 0.2
     - Added a genetic algorithm code for tough model selections.
     
@@ -33,6 +41,7 @@ Version 0.0 (2019 June 13)
 - pandas
 - scipy (only for p-value calculation of t-test)
 - scikt-learn (only for ElasticNet calculation)
+- seaborn (only for display the results of model selections)
 
 ## Manual
 see LIDG_manual.pdf
