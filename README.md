@@ -18,8 +18,8 @@ Version 0.0 (2019 June 13)
 ## Changes
 * version 0.3
     - Bug fix (sorted order of eq2 values in exhaustive search).
-    - Add reading optin ("index_col" in .read() method).
-    - Remove normalize optin in Elastic net calculation.  
+    - Add "index_col" option in .read() method.
+    - Remove "normalize" option in Elastic net calculation.  
 
 * version 0.3
     - Display digits control
