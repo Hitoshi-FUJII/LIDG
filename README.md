@@ -5,6 +5,8 @@ Note:
 "LIDG" method is similar in name to "Ridge" regression, sure independent screening (SIS), and independent component analysis (ICA), but these are completely different methods.
 
 ## Latest version
+Version 0.4 (2024 March 15)
+
 Version 0.3 (2022 Jan 12)
 
 Version 0.2 (2020 Nov 10)
@@ -15,11 +17,15 @@ Version 0.0 (2019 June 13)
 
 ## Changes
 * version 0.3
+    - Bug fix (sorted order of eq2 values in exhaustive search).
+    - Add reading optin ("index_col" in .read() method).
+    - Remove normalize optin in Elastic net calculation.  
+
+* version 0.3
     - Display digits control
     - CSV file reading (added "sep" option in .read() method). 
     - Bug fix (outlier detection program in projection.py).
     
-
 * version 0.2
     - Added a genetic algorithm code for tough model selections.
     
